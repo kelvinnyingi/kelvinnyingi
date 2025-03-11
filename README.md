@@ -26,13 +26,6 @@ I'm a passionate software developer with a love for building clean, functional, 
 ⚡ Built in under 24 hours with an international team.
 
 
-<!--
-**kelvinnyingi/kelvinnyingi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 Here are some of the projects I’ve worked on:
 - **[Rent a Pet](https://github.com/kelvinnyingi/rent-a-pet)**: A platform for pet lovers to rent pets.
@@ -56,5 +49,15 @@ Email: adikelvin1@gmail.com
 HE/HIM
 - ⚡ Fun fact: ...
 I once built a "FUN-DISASTER" app in just 24hours during a hackathon!
+
+
+<!--
+**kelvinnyingi/kelvinnyingi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+Here are some ideas to get you started:
+
+
 
 -->"Add profile README"
