@@ -2,11 +2,6 @@
 
 I'm a passionate software developer with a love for building clean, functional, and impactful solutions. Recently, I graduated from **Le Wagon Netherlands**, where I honed my skills in full-stack development, Ruby on Rails, and agile methodologies.
 
-
-
-<!--
-**kelvinnyingi/kelvinnyingi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 🛠️ Tech Stack
 - **Languages**: Ruby, JavaScript, HTML, CSS, SQL
 - **Frameworks**: Ruby on Rails, React, Vue.js
@@ -29,6 +24,12 @@ I'm a passionate software developer with a love for building clean, functional, 
 🎉 A crowdsourced solution platform for everyday life disasters.
 🏆 Winner of the "Most Creative Award" at a 100+ attendee event.
 ⚡ Built in under 24 hours with an international team.
+
+
+<!--
+**kelvinnyingi/kelvinnyingi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
