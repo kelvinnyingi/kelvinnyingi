@@ -2,14 +2,16 @@
 
 I'm a passionate software developer with a love for building clean, functional, and impactful solutions. Recently, I graduated from **Le Wagon Netherlands**, where I honed my skills in full-stack development, Ruby on Rails, and agile methodologies.
 
+
+
+<!--
+**kelvinnyingi/kelvinnyingi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # 🛠️ Tech Stack
 - **Languages**: Ruby, JavaScript, HTML, CSS, SQL
 - **Frameworks**: Ruby on Rails, React, Vue.js
 - **Tools**: Git, GitHub, Heroku, VS Code, Google Maps Api, Docker
 - **Databases**: PostgreSQL, Bootstrap, Agile Methodologies
-
-<!--
-**kelvinnyingi/kelvinnyingi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 🚀 Featured Projects
